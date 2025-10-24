@@ -1,0 +1,47 @@
+------------------ SAMPLE OUTPUT ------------------
+
+=== Student Database ===
+1. Add student
+2. Show all students
+0. Exit
+Choose: 1
+Roll: 101
+Name (one word): Raj
+Marks 1: 78
+Marks 2: 85
+Marks 3: 90
+Saved.
+
+
+=== Student Database ===
+1. Add student
+2. Show all students
+0. Exit
+Choose: 1
+Roll: 102
+Name (one word): Neha
+Marks 1: 88
+Marks 2: 92
+Marks 3: 81
+Saved.
+
+
+=== Student Database ===
+1. Add student
+2. Show all students
+0. Exit
+Choose: 2
+
+-- All Students --
+Roll: 101 | Name: Raj  | Marks: 78 85 90 | Total: 253 | Avg: 84.33
+Roll: 102 | Name: Neha | Marks: 88 92 81 | Total: 261 | Avg: 87.00
+
+
+=== Student Database ===
+1. Add student
+2. Show all students
+0. Exit
+Choose: 0
+Bye!
+
+----------------------------------------------------
