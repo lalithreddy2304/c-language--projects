@@ -39,4 +39,5 @@ Uses **recursion** to calculate the sum of the first *N* natural numbers.
 - 🧠 Purpose: Practice coding, logic building, and file operations  
 - 🪶 Language: C
 
-
+Author
+Lalith Reddy
