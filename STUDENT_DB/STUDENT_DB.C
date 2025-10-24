@@ -1,6 +1,3 @@
-// Student Database - Super Simple (Add + Show only)
-// No files, no functions. Just arrays and struct.
-
 #include <stdio.h>
 
 #define MAX 50      // max students we can store
