@@ -1,0 +1,34 @@
+------------------ SAMPLE OUTPUT ------------------
+
+Test Case 1:
+-------------
+Enter the first number: 8
+Enter an operator (+, -, *, /): /
+Enter the second number: 2
+Result = 4.00
+
+
+Test Case 2:
+-------------
+Enter the first number: 5
+Enter an operator (+, -, *, /): +
+Enter the second number: 7
+Result = 12.00
+
+
+Test Case 3: (Error Handling - Division by Zero)
+------------------------------------------------
+Enter the first number: 9
+Enter an operator (+, -, *, /): /
+Enter the second number: 0
+Error: Cannot divide by zero!
+
+
+Test Case 4: (Invalid Operator)
+-------------------------------
+Enter the first number: 10
+Enter an operator (+, -, *, /): x
+Enter the second number: 4
+Invalid operator! Please use +, -, *, or /
+
+--------------------------------------------------
